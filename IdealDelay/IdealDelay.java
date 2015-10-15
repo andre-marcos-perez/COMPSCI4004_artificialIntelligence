@@ -1,8 +1,8 @@
 /**
-	Program: 		    Ideal Delay
-	Author: 		    André Perez
-	Contact: 		    andre_mperez@hotmail.com
-	Last Modified: 	10 October 2015
+	Program: 		Ideal Delay
+	Author: 		André Perez
+	Contact: 		andre_mperez@hotmail.com
+	Last Modified: 		10 October 2015
 */
 
 import java.util.Scanner;
