@@ -1,9 +1,7 @@
 /**
 	Program: 		Convolution
-	Course: 		Artificial Intelligence
-	Laboratory:		#1
 	Author: 		André Perez
-	Contact: 		2221166p@student.gla.ac.uk
+	Contact: 		andre_mperez@hotmail.com
 	Last Modified: 		10 October 2015
 */
 
