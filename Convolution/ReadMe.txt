@@ -8,10 +8,16 @@ Contact:
 
   andre_mperez@hotmail.com
 
-File Description:
+Folder Description:
 
-  Convolves 300ms of an audio signal (originalData.txt) with a rectangular window of 10ms.
-  Handles file i/o.
+  java file
+    
+    Convolves 300ms of an audio signal (originalData.txt) with a rectangular window of 10ms.
+    Handles file i/o.
+    
+  matlab file
+  
+    plots both signals
   
 Input:
 
