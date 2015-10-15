@@ -21,7 +21,7 @@ Folder Description:
   
 Input:
 
-  300ms of audio signal sampled at 8kHz -> 2400 samples.
+  Audio samples: 300ms of audio signal sampled at 8kHz -> 2400 samples.
   
 Output:
 
