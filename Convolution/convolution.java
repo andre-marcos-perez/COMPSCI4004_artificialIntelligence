@@ -4,7 +4,7 @@
 	Laboratory:		#1
 	Author: 		André Perez
 	Contact: 		2221166p@student.gla.ac.uk
-	Last Modified: 	10 October 2015
+	Last Modified: 		10 October 2015
 */
 
 import java.util.Scanner;
