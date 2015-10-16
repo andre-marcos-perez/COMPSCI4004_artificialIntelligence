@@ -1,4 +1,4 @@
-%     Program: 		    Moving Average - PLOT
+% Program: 		    Moving Average - PLOT
 % Author: 		    André Perez
 % Contact: 		    andre_mperez@hotmail.com
 % Last Modified: 	    10 October 2015
