@@ -12,8 +12,9 @@ Folder Description:
 
   java file
     
-    Averages a 300ms of an audio signal (originalData.txt) 5, 10 and 15ms.
+    Averages a 300ms of an audio signal (originalData.txt).
     For each samples, calculates the average of the signal between k1 and k2 (k1 ≤ k < k2).
+    Where k1 and k2 assumes equal values of 5, 10 and 15ms.
     Handles file i/o.
     
   matlab file
