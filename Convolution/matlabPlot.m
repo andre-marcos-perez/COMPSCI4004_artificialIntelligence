@@ -1,7 +1,7 @@
 %   Program: 		    Convolution - PLOT
 %   Author: 		    André Perez
 %   Contact: 		    andre_mperez@hotmail.com
-%   Last Modified: 	  10 October 2015
+%   Last Modified: 	    10 October 2015
 
 close all;
 clear all;
