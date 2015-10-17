@@ -37,7 +37,7 @@ Mathematical Description:
             
   Rectangular Window:
   
-      w[n] = { 1 ∀ 0 ≤ n< N-1     where: N = Window Length
+      w[n] = { 1 ∀ 0 ≤ n < N-1    where: N = Window Length
              { 0 otherwise 
   
 ********************************************************************************************************
