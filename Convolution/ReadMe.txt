@@ -33,7 +33,7 @@ Mathematical Description:
   Convolution:
              ∞                           { y[n] = convolved signal
       y[n] = Σ s[k]w[n-k]         where: { s[k] = audio signal 
-            k=-∞                         { w[n-k] = retangular window
+            k=-∞                         { w[n-k] = rectangular window
             
   Rectangular Window:
   
