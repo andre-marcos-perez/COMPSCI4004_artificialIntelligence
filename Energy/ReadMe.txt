@@ -12,8 +12,9 @@ Folder Description:
 
   java file
     
-    Calculates the short time analysis Energy 
-      of an audio signal 300ms long(originalData.txt) with a rectangular window of 30ms.
+    Short time analysis: Calculates the Energy (see mathematical description)
+    of an audio signal 300ms long(originalData.txt) using a rectangular window of 30ms.
+    
     Handles file i/o.
     
   matlab file
@@ -31,10 +32,10 @@ Output:
   
 Mathematical Description:
 
-  Convolution:
-             ∞                           { y[n] = convolved signal
+  Short term Energy:
+             ∞                           { y[n] = energy signal
       y[n] = Σ s[k]²w[n-k]        where: { s[k] = audio signal 
-            k=-∞                         { w[n-k] = retangular window
+            k=-∞                         { w[n-k] = rectangular window
             
   Rectangular Window:
   
