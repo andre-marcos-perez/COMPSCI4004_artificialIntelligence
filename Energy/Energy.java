@@ -38,8 +38,6 @@ public class Energy {
 					
 				}
 			}
-			
-			modifiedData[i] /= (windowLength*samplingRate); 
 		}
 		
 		// # OUTPUT #
