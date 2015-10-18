@@ -10,16 +10,19 @@ Contact:
 
 Folder Description:
 
-  java file
+  Energy.java
     
     Short time analysis: Calculates the Energy (see mathematical description)
     of an audio signal 300ms long(originalData.txt) using a rectangular window of 30ms.
     
+  DataProcessing.java
+    
+    Get data parameters.
     Handles file i/o.
     
-  matlab file
+  matlabPlot.m
   
-    plots both signals
+    Plots both signals.
   
 Input:
 
