@@ -1,7 +1,7 @@
 /**
 	Program: 		Data Processing
-	Author: 		André Perez
-	Contact: 		2221166p@student.gla.ac.uk
+	@author: 		André Perez
+	Contact: 		andre_mperez@hotmail.com
 	Last Modified: 		18 October 2015
 */
 
