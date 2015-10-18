@@ -19,9 +19,9 @@ Folder Description:
     Get data parameters.
     Handles file i/o.
     
-  matlab file
+  matlabPlot.m
   
-    plots both signals
+    Plots both signals.
   
 Input:
 
