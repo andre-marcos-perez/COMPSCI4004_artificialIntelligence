@@ -10,9 +10,13 @@ Contact:
 
 Folder Description:
 
-  java file
+  Convolution.java
     
     Convolves 300ms of an audio signal (originalData.txt) with a rectangular window of 10ms.
+    
+  DataProcessing.java
+    
+    Get data parameters.
     Handles file i/o.
     
   matlab file
