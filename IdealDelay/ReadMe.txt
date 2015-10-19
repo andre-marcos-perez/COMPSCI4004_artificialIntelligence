@@ -10,14 +10,18 @@ Contact:
 
 Folder Description:
 
-  java file
+  IdealDelay.java
     
     Delays a 300ms of an audio signal (originalData.txt) 5, 10 and 15ms.
+  
+  DataProcessing.java
+    
+    Get data parameters.
     Handles file i/o.
     
-  matlab file
+  matlabPlot.m
   
-    plots both signals
+    Plots both signals
   
 Input:
 
