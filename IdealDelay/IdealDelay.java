@@ -2,7 +2,7 @@
 	Program: 		Ideal Delay
 	Author: 		André Perez
 	Contact: 		andre_mperez@hotmail.com
-	Last Modified: 		10 October 2015
+	Last Modified: 		18 October 2015
 */
 
 public class IdealDelay {
