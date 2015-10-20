@@ -10,16 +10,21 @@ Contact:
 
 Folder Description:
 
-  java file
+  Moving.Average.java
     
     Averages a 300ms of an audio signal (originalData.txt).
     For each samples, calculates the average of the signal between k1 and k2 (k1 ≤ k < k2).
     Where k1 and k2 assumes equal values of 5, 10 and 15ms.
     Handles file i/o.
     
-  matlab file
+  DataProcessing.java
+    
+    Get data parameters.
+    Handles file i/o.
+    
+  matlabPlot.m
   
-    plots both signals
+    Plots both signals.
   
 Input:
 
