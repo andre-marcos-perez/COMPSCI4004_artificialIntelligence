@@ -1,21 +1,21 @@
 #Convolution
 
 @File: Convolution.java
-Convolves 300ms of an audio signal (originalData.txt) with a rectangular window of 10ms.
+    Convolves 300ms of an audio signal (originalData.txt) with a rectangular window of 10ms.
     
 @File: DataProcessing.java
-Get data parameters.
-Handles file i/o.
+    Get data parameters.
+    Handles file i/o.
 
 @File: matlabPlot.m
-Plots original and convolved signals.
+    Plots original and convolved signals.
   
 @Input:
-Audio samples: 300ms of audio signal sampled at 8kHz -> 2400 samples.
+    Audio samples: 300ms of audio signal sampled at 8kHz -> 2400 samples.
   
 @Output:
-Audio file (normalizedOriginalData.txt) normalized at MAX{|originalData.txt|}.
-Colvolved signal (normalizedModifiedData.txt) normalized at MAX{|originalData.txt|}.
+    Audio file (normalizedOriginalData.txt) normalized at MAX{|originalData.txt|}.
+    Colvolved signal (normalizedModifiedData.txt) normalized at MAX{|originalData.txt|}.
   
 @Mathematical Description:
 
