@@ -1,8 +1,8 @@
 /**
-	Program: 		Data Processing
-	@author: 		André Perez
-	Contact: 		andre_mperez@hotmail.com
-	Last Modified: 		18 October 2015
+	Program: 	Data Processing
+	@author:	André Perez
+	Contact: 	2221166p@student.gla.ac.uk
+	Last Modified: 	18 October 2015
 */
 
 import java.io.FileInputStream;
