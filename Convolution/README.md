@@ -25,7 +25,7 @@
       y[n] = Σ s[k]w[n-k]         where: { s[k] = audio signal 
             k=-∞                         { w[n-k] = rectangular window
             
-  Rectangular Window:
+ * Rectangular Window:
   
       w[n] = { 1 ∀ 0 ≤ n < N-1    where: N = Window Length
              { 0 otherwise 
